@@ -17,7 +17,7 @@ Tasks:
 * Draw the Fan Controller
 * Add View Interactivity
 * Custom Attributes
-* Add Accessbility
+* Add Accessibility
 
 ## Screenshots
 
